@@ -9,10 +9,15 @@ body {
     overflow-x: hidden;
 }
 
-body {
+body,
+footer{
     margin: 0;
     font-family: 'Montserrat', sans-serif;
 
+}
+
+footer{
+    text-align: centre;
 }
 
 a {
